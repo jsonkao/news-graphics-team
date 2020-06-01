@@ -154,6 +154,22 @@ New York, New York
 
 * [Sam Petulla](https://twitter.com/spetulla)
 
+## Columbia Daily Spectator
+New York, New York
+
+[Website](https://graphicsdesk.github.io) | [GitHub](https://github.com/graphicsdesk)
+
+* [Charlotte Li](https:/twitter.com/shallotly)
+* [Eve Washington](https:/twitter.com/itsEveW)
+* [Hong Sen Du](https:/twitter.com/hongsendude)
+* [Ivana Moore](https:/github.com/ivanamoore)
+* [Jason Kao](https:/twitter.com/jsonkao)
+* [Jessica Li](https:/twitter.com/heyjessicali)
+* [Jun Yi Zhang](https:/twitter.com/jenny_jyzhang)
+* [Kelly Pu](https:/github.com/kelp1470)
+* [Mike Fu](https:/github.com/haohaom1)
+* [Raeedah Wahid](https:/twitter.com/raeedahwahid)
+
 ## The Dallas Morning News
 Dallas, Texas
 
